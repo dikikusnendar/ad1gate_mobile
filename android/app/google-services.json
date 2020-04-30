@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384180891101",
+    "firebase_url": "https://ocr-ktp-5c947.firebaseio.com",
+    "project_id": "ocr-ktp-5c947",
+    "storage_bucket": "ocr-ktp-5c947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384180891101:android:caee09c4a25181198c5a34",
+        "android_client_info": {
+          "package_name": "genesysindonesia.adira_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384180891101-ibv7hu22lhbdg6bcl6s9clu7bqgotaqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "genesysindonesia.adira_finance",
+            "certificate_hash": "e613ac231e41a8e68056e2bb93cb37abeb023ab3"
+          }
+        },
+        {
+          "client_id": "384180891101-2am395gmk7rhbhns8bf712bpskf01h1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-BQWZTKasYuSjybJ2uXwbY2XaHxIzhTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384180891101-2am395gmk7rhbhns8bf712bpskf01h1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
